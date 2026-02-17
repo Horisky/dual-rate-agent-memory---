@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# Large datasets
+topical-chat/
+Topical-Chat-master.zip
+transcript.txt
+transcript_all.txt
+facts.jsonl
+facts_strong.jsonl
+facts_all.jsonl
