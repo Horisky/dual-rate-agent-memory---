@@ -59,8 +59,8 @@ python .\local_agent_memory.py
 - `calls / in_tokens / out_tokens / time_ms`：成本统计  
 
 ## Notes  
-- Large datasets are included locally; consider excluding them if pushing to GitHub.  
+- Large datasets are included locally;
 
 注意：  
-- 数据集文件较大，上传 GitHub 前建议加入 `.gitignore` 排除。  
+- 数据集文件较大
 
